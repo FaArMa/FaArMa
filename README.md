@@ -34,6 +34,7 @@
   <a href="#"><img src="https://img.shields.io/badge/-Adobe%20Audition-9999FF?style=flat-square&logo=Adobe%20Audition&logoColor=white" alt="Adobe Audition"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white" alt="Adobe Photoshop"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white" alt="Android"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" alt="Arduino"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Authy-EC1C24?style=flat-square&logo=Authy&logoColor=white" alt="Authy"></a>
   <a href="#"><img src="https://img.shields.io/badge/-GNU%20Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white" alt="Bash"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Bitwarden-175DDC?style=flat-square&logo=Bitwarden&logoColor=white" alt="Bitwarden"></a>
