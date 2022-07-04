@@ -40,6 +40,7 @@
   <a href="#"><img src="https://img.shields.io/badge/-Bitwarden-175DDC?style=flat-square&logo=Bitwarden&logoColor=white" alt="Bitwarden"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" alt="Bootstrap"></a>
   <a href="#"><img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white" alt="C"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++"></a>
   <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS3"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white" alt="Cloudflare"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white" alt="Eclipse IDE"></a>
