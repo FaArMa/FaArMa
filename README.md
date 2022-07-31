@@ -15,17 +15,15 @@
   <br>
   🔬 Estudiando una Tecnicatura Universitaria en Programación en la UTN
   <br>
-  🔬 También estoy haciendo un curso Full-Stack Java en Codo a Codo
-  <br>
-  📚 Tengo muchos conocimientos y experiencia en diversos temas
+  📚 Tengo muchos conocimientos y experiencia en diversos temas  
   <br>
   💻 Me gusta escribir código de la manera más optima posible
   <br>
-  💬 Pregúntame cualquier cosa en las <a href="https://github.com/FaArMa/FaArMa/discussions">discusiones</a> de GitHub     
+  💬 Pregúntame cualquier cosa en las <a href="https://github.com/FaArMa/FaArMa/discussions">discusiones</a> de GitHub  
   <br>
-  📫 Podes escribirme por <a href="https://twitter.com/FaArMa">Twitter</a>, <a href="https://discord.gg/ar5qQrsdxc">Discord</a> y <a href="mailto:FaArMa@protonmail.com">Correo electrónico</a>       
+  📫 Podes escribirme por <a href="https://twitter.com/FaArMa">Twitter</a>, <a href="https://discord.gg/ar5qQrsdxc">Discord</a> y <a href="mailto:FaArMa@protonmail.com">Correo electrónico</a>      
   <br>
-  ⚡ Dato curioso: cuando algo me gusta puedo ser un full vivido        
+  ⚡ Dato curioso: cuando algo me gusta puedo ser un full vivido       
 </p>
 
 <hr>
@@ -34,6 +32,8 @@
   <a href="#"><img src="https://img.shields.io/badge/-Adobe%20Audition-9999FF?style=flat-square&logo=Adobe%20Audition&logoColor=white" alt="Adobe Audition"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white" alt="Adobe Photoshop"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white" alt="Android"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white" alt="Apache Maven"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Apache%20NetBeans%20IDE-1B6AC6?style=flat-square&logo=Apache%20NetBeans%20IDE&logoColor=white" alt="Apache NetBeans IDE"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" alt="Arduino"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Authy-EC1C24?style=flat-square&logo=Authy&logoColor=white" alt="Authy"></a>
   <a href="#"><img src="https://img.shields.io/badge/-GNU%20Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white" alt="Bash"></a>
@@ -59,13 +59,16 @@
   <a href="#"><img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" alt="Markdown"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat-square&logo=Microsoft%20Office&logoColor=white" alt="Microsoft Office"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Microsoft%20OneDrive-0078D4?style=flat-square&logo=Microsoft%20OneDrive&logoColor=white" alt="Microsoft OneDrive"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL"></a>
   <a href="#"><img src="https://img.shields.io/badge/-OBS%20Studio-302E31?style=flat-square&logo=OBS%20Studio&logoColor=white" alt="OBS Studio"></a>
   <a href="#"><img src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white" alt="PowerShell"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring"></a>
   <a href="#"><img src="https://img.shields.io/badge/-TeamViewer-004680?style=flat-square&logo=TeamViewer&logoColor=white" alt="TeamViewer"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" alt="Ubuntu"></a>
   <a href="#"><img src="https://img.shields.io/badge/-VLC%20media%20player-FF8800?style=flat-square&logo=VLC%20media%20player&logoColor=white" alt="VLC media player"></a>
   <a href="#"><img src="https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white" alt="VirtualBox"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" alt="Visual Studio Code"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" alt="Vue.js"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Windows%2010-0078D6?style=flat-square&logo=Windows&logoColor=white" alt="Windows 10"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Windows%20Terminal-4D4D4D?style=flat-square&logo=Windows%20Terminal&logoColor=white" alt="Windows Terminal"></a>
   <a href="#"><img src="https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=XAMPP&logoColor=white" alt="XAMPP"></a>
