@@ -54,7 +54,7 @@
   <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Imgur-1BB76E?style=flat-square&logo=Imgur&logoColor=white" alt="Imgur"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Internet%20Archive-666666?style=flat-square&logo=Internet%20Archive&logoColor=white" alt="Internet Archive"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Java-FFFFFF?style=flat-square&logo=OpenJDK&logoColor=black" alt="Java"></a>
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" alt="JavaScript"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" alt="Markdown"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat-square&logo=Microsoft%20Office&logoColor=white" alt="Microsoft Office"></a>
