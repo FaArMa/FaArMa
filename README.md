@@ -29,6 +29,7 @@
 <hr>
 <h2 align="center">🔥 Lenguajes, frameworks, herramientas y habilidades 🔥</h2>
 <p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.NET&logoColor=white" alt=".NET"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Adobe%20Audition-9999FF?style=flat-square&logo=Adobe%20Audition&logoColor=white" alt="Adobe Audition"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white" alt="Adobe Photoshop"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white" alt="Android"></a>
@@ -40,6 +41,7 @@
   <a href="#"><img src="https://img.shields.io/badge/-Bitwarden-175DDC?style=flat-square&logo=Bitwarden&logoColor=white" alt="Bitwarden"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" alt="Bootstrap"></a>
   <a href="#"><img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white" alt="C"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white" alt="C#"></a>
   <a href="#"><img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++"></a>
   <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS3"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white" alt="Cloudflare"></a>
@@ -67,6 +69,7 @@
   <a href="#"><img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" alt="Ubuntu"></a>
   <a href="#"><img src="https://img.shields.io/badge/-VLC%20media%20player-FF8800?style=flat-square&logo=VLC%20media%20player&logoColor=white" alt="VLC media player"></a>
   <a href="#"><img src="https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white" alt="VirtualBox"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white" alt="Visual Studio"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" alt="Visual Studio Code"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" alt="Vue.js"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Windows%2010-0078D6?style=flat-square&logo=Windows&logoColor=white" alt="Windows 10"></a>
