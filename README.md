@@ -13,21 +13,21 @@
   Hola, soy Fabricio, un estudiante de programación de Argentina.
   <br>
   <br>
-  🔬 Estudiando una Tecnicatura Universitaria en Programación en la UTN
+  :microscope: Estudiando una Tecnicatura Universitaria en Programación en la UTN
   <br>
-  📚 Tengo muchos conocimientos y experiencia en diversos temas  
+  :books: Tengo muchos conocimientos y experiencia en diversos temas&ensp;&ensp;
   <br>
-  💻 Me gusta escribir código de la manera más optima posible
+  :computer: Me gusta escribir código de la manera más optima posible
   <br>
-  💬 Pregúntame cualquier cosa en las <a href="https://github.com/FaArMa/FaArMa/discussions">discusiones</a> de GitHub  
+  :speech_balloon: Pregúntame cualquier cosa en las <a href="https://github.com/FaArMa/FaArMa/discussions">discusiones</a> de GitHub&ensp;&ensp;
   <br>
-  📫 Podes escribirme por <a href="https://twitter.com/FaArMa">Twitter</a>, <a href="https://discord.gg/ar5qQrsdxc">Discord</a> y <a href="mailto:FaArMa@protonmail.com">Correo electrónico</a>      
+  :mailbox: Podes escribirme por <a href="https://twitter.com/FaArMa">Twitter</a>, <a href="https://discord.gg/ar5qQrsdxc">Discord</a> y <a href="mailto:FaArMa@protonmail.com">Correo electrónico</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
   <br>
-  ⚡ Dato curioso: cuando algo me gusta puedo ser un full vivido       
+  :zap: Dato curioso: cuando algo me gusta puedo ser un full vivido&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 </p>
 
 <hr>
-<h2 align="center">🔥 Lenguajes, frameworks, herramientas y habilidades 🔥</h2>
+<h2 align="center">:fire: Lenguajes, frameworks, herramientas y habilidades :fire:</h2>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.NET&logoColor=white" alt=".NET"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Adobe%20Audition-9999FF?style=flat-square&logo=Adobe%20Audition&logoColor=white" alt="Adobe Audition"></a>
@@ -51,6 +51,7 @@
   <a href="#"><img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git"></a>
   <a href="#"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>
   <a href="#"><img src="https://img.shields.io/badge/-GitHub%20Pages-222222?style=flat-square&logo=GitHub%20Pages&logoColor=white" alt="GitHub Pages"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Godot%20Engine-478CBF?style=flat-square&logo=GodotEngine&logoColor=white" alt="Godot Engine"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Google%20Chrome-4285F4?style=flat-square&logo=Google%20Chrome&logoColor=white" alt="Google Chrome"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Google%20Drive-4285F4?style=flat-square&logo=Google%20Drive&logoColor=white" alt="Google Drive"></a>
   <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5"></a>
@@ -63,7 +64,10 @@
   <a href="#"><img src="https://img.shields.io/badge/-Microsoft%20OneDrive-0078D4?style=flat-square&logo=Microsoft%20OneDrive&logoColor=white" alt="Microsoft OneDrive"></a>
   <a href="#"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL"></a>
   <a href="#"><img src="https://img.shields.io/badge/-OBS%20Studio-302E31?style=flat-square&logo=OBS%20Studio&logoColor=white" alt="OBS Studio"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" alt="PHP"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-PL/SQL-F80000?style=flat-square&logo=Oracle&logoColor=white" alt="PL/SQL"></a>
   <a href="#"><img src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white" alt="PowerShell"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-SQL%20Developer%20+%20Data%20Modeler-F80000?style=flat-square&logo=Oracle&logoColor=white" alt="SQL Developer + Data Modeler"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring"></a>
   <a href="#"><img src="https://img.shields.io/badge/-TeamViewer-004680?style=flat-square&logo=TeamViewer&logoColor=white" alt="TeamViewer"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" alt="Ubuntu"></a>
@@ -76,9 +80,10 @@
   <a href="#"><img src="https://img.shields.io/badge/-Windows%20Terminal-4D4D4D?style=flat-square&logo=Windows%20Terminal&logoColor=white" alt="Windows Terminal"></a>
   <a href="#"><img src="https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=XAMPP&logoColor=white" alt="XAMPP"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Have%20I%20Been%20Pwned-2A6379?style=flat-square&logo=haveibeenpwned&logoColor=white" alt="haveibeenpwned"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat-square&logo=phpMyAdmin&logoColor=white" alt="phpMyAdmin"></a>
   <br>
   <sup>Que utilice x no significa que sea experto en x</sup>
 </p>
 <hr>
 
-<p align="center"><a href="https://github.com/FaArMa?tab=repositories">🔍 Repositorios</a> • <a href="https://gist.github.com/FaArMa">🔍 Gists</a> • <a href="https://github.com/FaArMa.gpg">🔑 GPG Public Key</a></p>
+<p align="center"><a href="https://github.com/FaArMa?tab=repositories">:mag: Repositorios</a> &bull; <a href="https://gist.github.com/FaArMa">:mag: Gists</a> &bull; <a href="https://github.com/FaArMa.gpg">:key: GPG Public Key</a></p>
