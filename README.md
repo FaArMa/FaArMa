@@ -10,10 +10,10 @@
 
 <br>
 <p align="center">
-  Hola, soy Fabricio, un estudiante de programación de Argentina.
+  Hola, soy Fabricio, un desarrollador de software de Argentina.
   <br>
   <br>
-  :microscope: Estudiando una Tecnicatura Universitaria en Programación en la UTN
+  :mortar_board: Me recibí de Técnico Universitario en Programación en la UTN&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
   <br>
   :books: Tengo muchos conocimientos y experiencia en diversos temas&ensp;&ensp;
   <br>
